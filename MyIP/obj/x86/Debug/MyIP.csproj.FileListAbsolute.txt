@@ -1,0 +1,9 @@
+C:\!docs\!VC2010\MyIP\MyIP\bin\Debug\MyIP.exe
+C:\!docs\!VC2010\MyIP\MyIP\bin\Debug\MyIP.pdb
+C:\!docs\!VC2010\MyIP\MyIP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\!docs\!VC2010\MyIP\MyIP\obj\x86\Debug\MyIP.Form1.resources
+C:\!docs\!VC2010\MyIP\MyIP\obj\x86\Debug\MyIP.Properties.Resources.resources
+C:\!docs\!VC2010\MyIP\MyIP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\!docs\!VC2010\MyIP\MyIP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\!docs\!VC2010\MyIP\MyIP\obj\x86\Debug\MyIP.exe
+C:\!docs\!VC2010\MyIP\MyIP\obj\x86\Debug\MyIP.pdb
